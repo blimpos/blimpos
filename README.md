@@ -1,10 +1,7 @@
 ## Hi there 👋
-
+<img src="cyberpunk-cyber.gif" width="350" />
 <table>
   <tr>
-    <h1>
-      <img src="cyberpunk-cyber.gif" width="350" />
-    </h1>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>about me:</h3>
       <p>Hello! I'm Camila and I’m currently
