@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![cyber](https://github.com/blimpos/computer/blob/main/cyberpunk-cyber.gif?raw=true)
-
+ <h1>Hello! My name is Camila and I'm currently studying computer science.</h1>
 
 <!--
 **blimpos/blimpos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
