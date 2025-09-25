@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![cyber](cyberpunk-cyber.gif)
+![cyber](https://github.com/blimpos/computer/blob/main/cyberpunk-cyber.gif?raw=true)
+
 
 <!--
 **blimpos/blimpos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
