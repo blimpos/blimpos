@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center; gap: 20px;">
 
-  <img src="https://github.com/blimpos/computer/blob/main/cyberpunk-cyber.gif?raw=true" width="350"/>
+  <img src="https://github.com/blimpos/computer/blob/main/cyberpunk-cyber.gif?raw=true" width="150"/>
 
   <div>
     <h2>Hello, I'm Camila!</h2>
