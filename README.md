@@ -1,8 +1,8 @@
 ## Hi there 👋
-![cyber](https://github.com/blimpos/computer/blob/main/cyberpunk-cyber.gif?raw=true)
 
 <table>
   <tr>
+    ![cyber](https://github.com/blimpos/computer/blob/main/cyberpunk-cyber.gif?raw=true)
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>about me:</h3>
       <p>Hello! I'm Camila and I’m currently
