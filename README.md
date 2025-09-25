@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="cyberpunk-cyber.gif"/>
+      <img src="cyberpunk-cyber.gif" width="450"/>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>about me:</h3>
