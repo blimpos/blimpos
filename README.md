@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<img src https://blob.gifcities.org/gifcities/6NCRTTPWMPJEBJTECEFB743V5JYBMFBJ.gif>
 
 <!--
 **blimpos/blimpos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
