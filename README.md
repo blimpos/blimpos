@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="cyberpunk-cyber.gif" width="250"/>
+      <img src="cyberpunk-cyber.gif"/>
     </td>
     <td>
         <h2>Hello! My name is Camila and I'm currently studying computer science.</h2>
