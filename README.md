@@ -3,14 +3,14 @@
 <table>
   <tr>
     <td>
-      <img src="cyberpunk-cyber.gif" width="450"/>
+      <img src cyberpunk-cyber.gif />
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>about me:</h3>
       <p>Hello! I'm Camila and I’m currently
         studying computer science.</p>
       <p>
-        I love doing silly things :3 
+        I love coding silly things :3 
       </p>
     </td>
   </tr>
