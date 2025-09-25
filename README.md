@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-!<table>
+<table>
   <tr>
     <td>
       <img src="cyberpunk-cyber.gif" width="250"/>
