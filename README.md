@@ -1,5 +1,6 @@
 ## Hi there 👋
-<img src="cyberpunk-cyber.gif" width="350" />
+![cyber](https://github.com/blimpos/computer/blob/main/cyberpunk-cyber.gif?raw=true)
+
 <table>
   <tr>
     <td style="vertical-align: top; padding-left: 20px;">
