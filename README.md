@@ -1,13 +1,23 @@
-## Hi there 👋
+## Hello/ I'm Camila!
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<img align="center" width="200px" src="(https://web.archive.org/web/20091027150013if_/http://geocities.com/dabb2001/compu.gif)" />
 
-  <img src="https://github.com/blimpos/computer/blob/main/cyberpunk-cyber.gif?raw=true" width="150"/>
-<td>
-  <div>
-    <h2>Hello, I'm Camila!</h2>
-    <p>I'm currently studying computer science at college ^_^</p>
-    <p>I like coding silly things</p>
-  </div>
-</td>
-</div>
+### about me:
+ tech enthusiast | backend dev |
+
+I'm a computer science student passionate about backend development.  
+
+---
+
+### langs && frameworks:
+▸ Java  
+▸ Python  
+
+---
+
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blimpos&layout=compact&theme=tokyonight)
+
+---
+
+“Code is like .. everything ;P”  
