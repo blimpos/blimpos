@@ -1,6 +1,6 @@
 ## Hello/ I'm Camila!
 
-<img src="(https://i.imgur.com/uLqbxoR.gif)" />
+<img src="(https://github.com/blimpos/blimpos/blob/main/mewo-omori.gif?raw=true)" />
 
 ### about me:
  tech enthusiast | backend dev |
