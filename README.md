@@ -1,6 +1,6 @@
 ## Hello/ I'm Camila!
 
-<img align="center" width="200px" src="(https://i.imgur.com/uLqbxoR.gif)" />
+<img src="(https://i.imgur.com/uLqbxoR.gif)" />
 
 ### about me:
  tech enthusiast | backend dev |
